@@ -1,0 +1,202 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Arial,sans-serif;
+}
+.wrap {
+  margin: 0px auto;
+  
+}
+a:link { text-decoration: none;}
+
+.option {
+  margin: 0 auto;
+  width:99%;
+  background-color: #faf2fb;
+  border: #9867ac solid 2px;
+  border-radius: 10px;
+}
+.sort {
+  
+  margin: 10px auto;
+  width:500px;
+  background-color: #ffffff;
+  height: 50px;
+  border: #9867ac solid 2px;
+  border-radius: 10px;
+  
+}
+div.sort>span {
+  color:red;
+  float:left;
+  padding:15px;
+}
+.sort-form{
+  padding:15px;
+  float:left;
+  color:red;
+  padding-left:50px;
+}
+.counter {
+  text-align: center;
+  padding:10px;
+}
+.container {
+  margin: 0 auto;
+  width:99%;
+  background-color: #faf2fb;
+  border: #9867ac solid 2px;
+  border-radius: 10px;
+
+}
+.infor {
+  margin: 10px auto;
+  width:500px;
+  background-color: #ffffff;
+  height: 200px;
+  border: #9867ac solid 2px;
+  border-radius: 10px;
+
+}
+
+.avatar {
+  padding:5px;
+  width: 150px;
+  height: 150px;
+  float:left;
+}
+.avatar img {
+  border:#9867ac solid 1px;
+  width: 150px;
+  height: 150px;
+}
+.avatar p {
+  text-align: center;
+  color:#333333;
+}
+.introduce {
+  padding:5px;
+  width: 330px;
+  height: 150px;
+  float:left;
+}
+.introduce strong{
+  
+  padding:0px 20px;
+}
+
+.introduce p:first-child,.introduce p:nth-child(2){
+  font-size: 20px;
+  color: #9867ac;
+}
+.introduce p:nth-child(3){
+  font-size: 14px;
+  color: #584f4f;
+}
+
+.see-more {
+  float:right;
+  padding: 10px 50px;
+}
+
+.detail {
+  margin: 40px auto;
+  height: auto;
+  text-align: center;
+}
+.detail>p>img {
+  width: 300px;
+  height: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.login-success p{
+  text-align: center;
+  font-size: 30px;
+  color:#9867ac;
+}
+.login {
+  margin: 5% auto;
+  width:50%;
+  background-color: #faf2fb;
+  height: 400px;
+  border: #9867ac solid 2px;
+  border-radius: 10px;
+}
+.login span {
+  text-align: center;
+}
+.login table {
+  margin: 100px auto;
+}
+
+.login caption {
+  font-size: 50px;
+  padding-bottom: 10px;
+}
+.login th {
+  font-size: 20px;
+}
+.login input[type='text'],.login input[type='password'] {
+  width:160px;
+  height:30px;
+  border-radius: 10px;
+  font-size: 16px;
+  padding-left:5px;
+}
+.login input[type='submit'] {
+  width:60px;
+  height:30px;
+  border-radius: 10px;
+}
+
+.registry{
+  margin: 2px auto;
+  width:99%;
+  background-color: #faf2fb;
+  height: 600px;
+  border: #9867ac solid 2px;
+  border-radius: 10px;
+}
+.registry table {
+  margin: 0 auto;
+}
+.registry caption {
+  font-size: 50px;
+  padding-bottom: 10px;
+}
+.registry th{
+  text-align: left;
+  width:180px;
+}
+.registry input {
+  width:200px;
+  height:25px;
+}
+.registry textarea {
+  width:200px;
+  height:60px;
+}
+.registry select {
+  width:70px;
+  height:30px;
+}
+.registry input[type='submit'] {
+  width:70px;
+  height:30px;
+  border-radius: 5px;
+  margin-top:10px;
+}
+#birthday input[type='text'] {
+  width:40px;
+  height:25px;
+}
